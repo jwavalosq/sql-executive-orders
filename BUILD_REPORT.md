@@ -2,7 +2,7 @@
 
 ## What was built
 
-A SQL only portfolio project on the verified executive orders dataset, in the same story driven style as the earlier portfolio projects, but with SQL as the whole method. Local build only. Nothing was published, posted, or signed into anywhere. No GitHub repo was created.
+A SQL only portfolio project on the verified executive orders dataset, in the same story driven style as the earlier portfolio projects, but with SQL as the whole method. Published Nov 4, 2026 to github.com/jwavalosq/sql-executive-orders, story site jwavalosq.github.io/sql-executive-orders, after the user's explicit go, with a small follow-up commit fixing the local-only wording.
 
 Location: `~/workspace/sql-executive-orders/`
 

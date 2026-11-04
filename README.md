@@ -64,4 +64,4 @@ The source CSV stores EO numbers as float formatted strings such as '14438.0', a
 - `data/published_reference_totals.csv`: published historical totals per president, kept separate from dataset rows.
 - `BUILD_REPORT.md`, `PROVENANCE.md`: sources, build steps, verification log.
 
-Local build only. Nothing here has been published, posted, or signed into anywhere.
+Published: [sql-executive-orders on GitHub](https://github.com/jwavalosq/sql-executive-orders), story site [Executive Orders in SQL](https://jwavalosq.github.io/sql-executive-orders/).
